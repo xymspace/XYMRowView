@@ -1,0 +1,6 @@
+framework module Pods_XYMRowView_Example {
+  umbrella header "Pods-XYMRowView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

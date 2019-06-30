@@ -1,0 +1,6 @@
+framework module XYMRowView {
+  umbrella header "XYMRowView-umbrella.h"
+
+  export *
+  module * { export * }
+}
